@@ -1,4 +1,4 @@
-# DA-learnings-handson
+# DA-learnings-IPL
 exploratory data analysis on the data set of ipl-2023-match-01
 # data cleaning
 # Splitting the DF into 2 DF's of respective teams
